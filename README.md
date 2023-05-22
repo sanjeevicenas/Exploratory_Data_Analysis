@@ -1,4 +1,4 @@
-# Exploratory_Data_Analysis
+# Capital Bike Sharing Company Exploratory_Data_Analysis
 
 In this project, I worked with a dataset containing hourly bike sharing data. I used Python and various libraries like pandas, matplotlib, and seaborn to analyze and visualize the dataset. Let me walk you through the key concepts involved."
 "Firstly, I loaded the dataset using the pandas library's read_csv() function, which allowed me to bring the data into a DataFrame, a tabular data structure in pandas. This step was crucial as it provided a convenient and structured way to work with the dataset."
